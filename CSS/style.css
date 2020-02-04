@@ -1,0 +1,16 @@
+nav{
+display:flex;
+justify-content: space-between;
+align-items: center;
+flex-direction: row;
+}
+
+a:hover{
+background-color: grey;
+
+}
+a {
+padding: 0.5em;
+transition: background-color: red;
+align-items: vertical;
+}
